@@ -1,0 +1,13 @@
+vagrant init (initialize a directory. It will make a Vagrantfile)
+After writing your code.
+vagrant up (To start and provision the vagrant environment.)
+vagrant reload (restart vagrant machine)
+vagrant suspend (suspends the vagrant machine)
+vagrant resume (resumes a suspended vagrant machine)
+vagrant validate (validates a vagrant file)
+vagrant destroy (Stops and deletes all traces of the vagrant machine)
+vagrant ssh (connects to machine via ssh)
+vagrant ssh-config (outputs open ssh valid configuration to connect to the machine)
+vagrant status (Check the status of the virtual machine)
+vagrant global-status (Checks all virtual machine status)
+vagrant halt (stops the vitual machine)
